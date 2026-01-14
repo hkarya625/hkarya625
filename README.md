@@ -1,72 +1,145 @@
+<div align="center">
+  <img src="https://github.com/hkarya625/hkarya625/blob/main/Banner.png" alt="Banner" width="100%"/>
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+abc;Android+Developer;Backend+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 Passionate Android Developer</h3>
+
 <p align="center">
-  <img src="https://github.com/hkarya625/hkarya625/blob/main/Banner.png" alt="Himanshu Kumar Banner"/>
+  <img src="https://komarev.com/ghpvc/?username=hkarya625&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hkarya625?label=Followers&style=for-the-badge&color=blue" alt="Followers">
 </p>
 
-<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">A passionate Android Developer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hkarya625&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif" alt="coding" width="400" height="300">
-</p>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif" alt="Coding" width="400"/>
+</div>
 
 ---
 
-### 🌐 Connect with me:
+## 👨‍💻 About Me
 
-<p>
-  <a href="https://www.linkedin.com/in/himanshu-kumar-4105b5267/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="https://developer.android.com/static/images/spot-icons/jetpack-compose.svg" alt="Jetpack Compose" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" alt="MongoDB" width="40" height="40"/>
-  </a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-</p>
+- 🔭 Developing modern Android apps with **Kotlin, Compose UI and Modern best practices**
+- 🌱 Experienced in backend development with **Java, Spring Boot & PostgreSQL**
+- 💡 Worked with **Kafka, Docker, and gRPC for building distributed microservices**
+- 📱 Developing Android apps using **TensorFlow Lite models to enable offline, on-device ML inference
+- 📫 Reach me at: **your.email@example.com**
 
 
 ---
 
-### 📊 GitHub Stats:
+## 🌐 Connect With Me
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkarya625&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/user/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/hkarya625" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkarya625&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit"/>
+  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room"/>
+  <img src="https://img.shields.io/badge/Dagger_Hilt-2496ED?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt"/>
+  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logo=android&logoColor=white" alt="MVVM"/>
+</p>
+
+### 🔧 Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### 🛠️ Tools & AI
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkarya625" alt="GitHub Streak" />
 </p>
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hkarya625&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkarya625&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/hkarya625/FarmAi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkarya625&repo=FarmAi&theme=tokyonight&hide_border=true" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/hkarya625/object-detection-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkarya625&repo=object-detection-app&theme=tokyonight&hide_border=true" alt="Project 2"/>
+  </a>
+</div>
+
+
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+  ### 💙 Show some love by starring ⭐ some repositories!
+  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+</div>
