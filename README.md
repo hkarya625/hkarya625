@@ -84,12 +84,10 @@
  
 ## 📊 GitHub Statistics
  
-<div align="center">
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hkarya625&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkarya625&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=FFFFFF"/>
- 
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hkarya625&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hkarya625&layout=compact&theme=tokyonight"/>
+</p>
  
 <div align="center">
  
