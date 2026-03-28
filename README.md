@@ -89,17 +89,27 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
 </p>
 
----
 
+
+---
+ 
 ## 📊 GitHub Statistics
-
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkarya625" alt="GitHub Streak" />
-</p>
-
-
+ 
+<div align="center">
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hkarya625&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkarya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=FFFFFF"/>
+ 
+</div>
+ 
+<div align="center">
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=hkarya625&theme=tokyonight&hide_border=true&background=0D1117&stroke=3DDC84&ring=3DDC84&fire=FF6C37&currStreakLabel=3DDC84)](https://git.io/streak-stats)
+ 
+</div>
+ 
 ---
+
 
 ## 📈 Contribution Graph
 
