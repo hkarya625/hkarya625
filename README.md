@@ -3,21 +3,10 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Himanshu+Arya;Android+Developer;Backend+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Himanshu+Arya;Android+Developer;Backend+Developer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Passionate Android Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hkarya625&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hkarya625?label=Followers&style=for-the-badge&color=blue" alt="Followers">
-</p>
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif" alt="Coding" width="400"/>
-</div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -25,7 +14,7 @@
 - 🌱 Experienced in backend development with **Java, Spring Boot & PostgreSQL**
 - 💡 Worked with **Kafka, Docker, and gRPC for building distributed microservices**
 - 📱 Developing Android apps using **TensorFlow Lite models to enable offline, on-device ML inference
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **hkarya625@gmail.com**
 
 
 ---
@@ -98,7 +87,7 @@
 <div align="center">
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hkarya625&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkarya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkarya625&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=FFFFFF"/>
  
 </div>
  
