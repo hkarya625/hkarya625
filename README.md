@@ -3,8 +3,9 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Himanshu+Arya;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Himanshu+Arya;Android+Developer" alt="Typing SVG" />
 </h1>
+
 
 
 
@@ -38,57 +39,60 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 📱 Android Development
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</p>
-
-### 📱 Mobile Development
-<p>
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK"/>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit"/>
-  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room"/>
-  <img src="https://img.shields.io/badge/Dagger_Hilt-2496ED?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt"/>
-  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logo=android&logoColor=white" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/Material_3-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material 3"/>
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines"/>
+  <img src="https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Flow"/>
 </p>
 
-### 🔧 Backend Development
+### 🏗️ Architecture & Libraries
 <p>
+  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logo=android&logoColor=white" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Hilt-2496ED?style=for-the-badge&logo=dagger&logoColor=white" alt="Hilt"/>
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit"/>
+  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+### 🤖 AI & On-Device ML
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/MoveNet-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="MoveNet"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices"/>
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Room_SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-### 🛠️ Tools & AI
+### 🧰 Tools & Development
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
 </p>
-
-
 
 ---
  
 ## 📊 GitHub Statistics
- 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hkarya625&show_icons=true&theme=tokyonight"/>
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hkarya625&layout=compact&theme=tokyonight"/>
-</p>
  
 <div align="center">
  
@@ -97,9 +101,6 @@
 </div>
  
 ---
-
-
-
 
 
 
