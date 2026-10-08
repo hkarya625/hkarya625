@@ -10,10 +10,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Developing modern Android apps with **Kotlin, Compose UI and Modern best practices**
-- 🌱 Experienced in backend development with **Java, Spring Boot & PostgreSQL**
-- 💡 Worked with **Kafka, Docker, and gRPC for building distributed microservices**
-- 📱 Developing Android apps using **TensorFlow Lite models to enable offline, on-device ML inference
+- 📱 Android Developer building modern, scalable apps with Kotlin, Jetpack Compose, and Android SDK
+- 🏗️ Experienced with Clean Architecture, MVVM, Coroutines, Flow, Hilt, Room, Retrofit, and Firebase
+- 🤖 Exploring on-device AI/ML with TensorFlow Lite, YOLOv8, and MoveNet for real-time mobile experiences
+- ⚙️ Familiar with backend development using Java, Spring Boot, REST APIs, and PostgreSQL
+- 🚀 Interested in building high-quality mobile applications, AI-powered experiences, and scalable backend systems
 - 📫 Reach me at: **hkarya625@gmail.com**
 
 
@@ -98,13 +99,6 @@
 ---
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkarya625&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
----
 
 
 
